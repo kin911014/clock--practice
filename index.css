@@ -1,0 +1,13 @@
+.greetingH4Ctn,
+.greetingFormCtn {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
+
+body {
+  background-color: grey;
+  color: white;
+}
